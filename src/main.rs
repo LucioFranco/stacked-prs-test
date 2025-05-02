@@ -3,5 +3,5 @@ fn main() {
 }
 
 fn hello_world() {
-    println!("Hello, world!");
+    println!("some other hello world");
 }
